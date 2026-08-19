@@ -1,0 +1,113 @@
+{
+  "updated_at": "2026-08-19 15:27:28",
+  "generated_by": "deepseek-usage-sync",
+  "balance": {
+    "is_available": true,
+    "currency": "CNY",
+    "total_balance": "24.12",
+    "granted_balance": "0.00",
+    "topped_up_balance": "24.12"
+  },
+  "balance_status": "ok",
+  "balance_error": null,
+  "usage": {
+    "summary": {
+      "total": "全部",
+      "requests": 975,
+      "success": 835,
+      "input_tokens": 59339065,
+      "output_tokens": 849239,
+      "cache_tokens": 75760896,
+      "cost_usd": 1.6242351648000013,
+      "range": {
+        "from": "2026-08-03",
+        "to": "2026-08-19"
+      }
+    },
+    "by_day": [
+      {
+        "date": "2026-08-03",
+        "requests": 44,
+        "success": 32,
+        "input_tokens": 697420,
+        "output_tokens": 30002,
+        "cache_tokens": 670208,
+        "cost_usd": 0.0528277384
+      },
+      {
+        "date": "2026-08-04",
+        "requests": 376,
+        "success": 252,
+        "input_tokens": 31233833,
+        "output_tokens": 277146,
+        "cache_tokens": 27301120,
+        "cost_usd": 0.8610475160000006
+      },
+      {
+        "date": "2026-08-10",
+        "requests": 133,
+        "success": 133,
+        "input_tokens": 340168,
+        "output_tokens": 226718,
+        "cache_tokens": 10415744,
+        "cost_usd": 0.14026864319999996
+      },
+      {
+        "date": "2026-08-14",
+        "requests": 31,
+        "success": 31,
+        "input_tokens": 112800,
+        "output_tokens": 27313,
+        "cache_tokens": 887936,
+        "cost_usd": 0.0260338308
+      },
+      {
+        "date": "2026-08-17",
+        "requests": 104,
+        "success": 104,
+        "input_tokens": 298232,
+        "output_tokens": 43187,
+        "cache_tokens": 5585664,
+        "cost_usd": 0.06982778419999998
+      },
+      {
+        "date": "2026-08-19",
+        "requests": 287,
+        "success": 283,
+        "input_tokens": 26656612,
+        "output_tokens": 244873,
+        "cache_tokens": 30900224,
+        "cost_usd": 0.47422965219999985
+      }
+    ],
+    "by_model": [
+      {
+        "model": "deepseek-v4-flash",
+        "requests": 771,
+        "success": 724,
+        "input_tokens": 45313472,
+        "output_tokens": 726274,
+        "cache_tokens": 63774592,
+        "cost_usd": 1.2313246175999994
+      },
+      {
+        "model": "deepseek-chat",
+        "requests": 193,
+        "success": 100,
+        "input_tokens": 13967551,
+        "output_tokens": 119088,
+        "cache_tokens": 11844224,
+        "cost_usd": 0.36377424719999996
+      },
+      {
+        "model": "deepseek-v4-pro",
+        "requests": 11,
+        "success": 11,
+        "input_tokens": 58042,
+        "output_tokens": 3877,
+        "cache_tokens": 142080,
+        "cost_usd": 0.0291363
+      }
+    ]
+  }
+}
