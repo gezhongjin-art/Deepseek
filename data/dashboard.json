@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-19 15:31:30",
+  "updated_at": "2026-08-19 18:54:19",
   "generated_by": "deepseek-usage-sync",
   "balance": {
     "is_available": true,
     "currency": "CNY",
-    "total_balance": "24.12",
+    "total_balance": "9.95",
     "granted_balance": "0.00",
-    "topped_up_balance": "24.12"
+    "topped_up_balance": "9.95"
   },
   "balance_status": "ok",
   "balance_error": null,
   "usage": {
     "summary": {
       "total": "全部",
-      "requests": 975,
-      "success": 835,
-      "input_tokens": 59339065,
-      "output_tokens": 849239,
-      "cache_tokens": 75760896,
-      "cost_usd": 1.6242351648000013,
+      "requests": 1121,
+      "success": 950,
+      "input_tokens": 99905684,
+      "output_tokens": 936300,
+      "cache_tokens": 113296768,
+      "cost_usd": 2.1780172663999995,
       "range": {
         "from": "2026-08-03",
         "to": "2026-08-19"
@@ -72,23 +72,23 @@
       },
       {
         "date": "2026-08-19",
-        "requests": 287,
-        "success": 283,
-        "input_tokens": 26656612,
-        "output_tokens": 244873,
-        "cache_tokens": 30900224,
-        "cost_usd": 0.47422965219999985
+        "requests": 433,
+        "success": 398,
+        "input_tokens": 67223231,
+        "output_tokens": 331934,
+        "cache_tokens": 68436096,
+        "cost_usd": 1.0280117537999995
       }
     ],
     "by_model": [
       {
         "model": "deepseek-v4-flash",
-        "requests": 771,
-        "success": 724,
-        "input_tokens": 45313472,
-        "output_tokens": 726274,
-        "cache_tokens": 63774592,
-        "cost_usd": 1.2313246175999994
+        "requests": 917,
+        "success": 839,
+        "input_tokens": 85880091,
+        "output_tokens": 813335,
+        "cache_tokens": 101310464,
+        "cost_usd": 1.7851067191999987
       },
       {
         "model": "deepseek-chat",
